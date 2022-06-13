@@ -1,0 +1,4 @@
+{:main pr4.core
+ :npm-deps false
+ :infer-externs true
+ }

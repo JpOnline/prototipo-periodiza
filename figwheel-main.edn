@@ -1,0 +1,5 @@
+{:npm {:bundles {"dist/index.bundle.js" "src/js/index.js"}}
+ :connect-url "ws://100.115.92.200:[[server-port]]/figwheel-connect"
+ :watch-dirs ["src"]
+ :open-url false
+}
